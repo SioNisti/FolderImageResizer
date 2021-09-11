@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FolderImageResizer", "reziser\FolderImageResizer.csproj", "{CB4D203B-7901-44DC-B8C6-6F102F6EE6DE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FolderImageResizer", "FolderImageResizer\FolderImageResizer.csproj", "{CB4D203B-7901-44DC-B8C6-6F102F6EE6DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

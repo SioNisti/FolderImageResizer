@@ -7,10 +7,21 @@
     <Authors>SioN_510N</Authors>
     <Company>siontea</Company>
     <Description>Resize all images from a folder in one go</Description>
+    <PackageProjectUrl>https://github.com/SioNisti/FolderImageResizer</PackageProjectUrl>
+    <PackageIcon>folderimageresizer.png</PackageIcon>
+    <PackageIconUrl />
+    <RepositoryUrl>https://github.com/SioNisti/FolderImageResizer</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="System.Drawing.Common" Version="5.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\..\Pictures\folderimageresizer.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>
